@@ -1,0 +1,58 @@
+PODS:
+  - AFNetworking (4.0.0):
+    - AFNetworking/NSURLSession (= 4.0.0)
+    - AFNetworking/Reachability (= 4.0.0)
+    - AFNetworking/Security (= 4.0.0)
+    - AFNetworking/Serialization (= 4.0.0)
+    - AFNetworking/UIKit (= 4.0.0)
+  - AFNetworking/NSURLSession (4.0.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (4.0.0)
+  - AFNetworking/Security (4.0.0)
+  - AFNetworking/Serialization (4.0.0)
+  - AFNetworking/UIKit (4.0.0):
+    - AFNetworking/NSURLSession
+  - MBProgressHUD (1.2.0)
+  - MWFeedParser (1.0.1):
+    - MWFeedParser/FeedParser (= 1.0.1)
+    - "MWFeedParser/NSDate+InternetDateTime (= 1.0.1)"
+    - "MWFeedParser/NSString+HTML (= 1.0.1)"
+  - MWFeedParser/FeedParser (1.0.1):
+    - "MWFeedParser/NSDate+InternetDateTime"
+    - "MWFeedParser/NSString+HTML"
+  - "MWFeedParser/NSDate+InternetDateTime (1.0.1)"
+  - "MWFeedParser/NSString+HTML (1.0.1)"
+  - RaptureXML (1.0.1)
+  - Reachability (3.2)
+  - TBXML (1.5)
+
+DEPENDENCIES:
+  - AFNetworking (~> 4.0)
+  - MBProgressHUD
+  - MWFeedParser
+  - RaptureXML
+  - Reachability
+  - TBXML
+
+SPEC REPOS:
+  trunk:
+    - AFNetworking
+    - MBProgressHUD
+    - MWFeedParser
+    - RaptureXML
+    - Reachability
+    - TBXML
+
+SPEC CHECKSUMS:
+  AFNetworking: d9fdf484a3c723ec3c558a41cc5754c7e845ee77
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  MWFeedParser: 2cf646014c1baf6ad1b08c480b40a08180079247
+  RaptureXML: b5c33c04c1a4adfd8ad0d5463329a31820596e82
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  TBXML: 9f9dadb239f2f2af1dadb87fe43a0ce6e479379a
+
+PODFILE CHECKSUM: ac22f67d54cbe8cc039561557a385134b94ff90a
+
+COCOAPODS: 1.9.1
